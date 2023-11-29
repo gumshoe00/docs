@@ -57,3 +57,5 @@ It's also strongly recommended to encrypt your master key before storing it (e.g
 ### Changing my master key
 This one is also in My Channel -> Keys. Be extra careful when using this one, and make sure that you properly saved the key before changing it. There will be no way to go back to the old master key. If you current master key has no reason to be compromised, there is little reason to change it.
 
+
+
